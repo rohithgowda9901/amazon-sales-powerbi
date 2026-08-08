@@ -149,27 +149,4 @@ amazon-sales-powerbi/
     └── amazon-sales-dashboard.jpeg
 
 
----
 
-## 🧩 Skills Demonstrated
-
-- Data Cleaning
-- Data Transformation
-- Data Modeling
-- DAX
-- KPI Development
-- Data Visualization
-- Interactive Dashboard Development
-- Business Analysis
-- Power BI Reporting
-- Insight Generation
-
----
-
-## 👨‍💻 Author
-
-**Rohith Gowda**
-
-Data Analyst | Power BI | SQL | Python | Excel
-
-📍 Bengaluru, Karnataka, India
